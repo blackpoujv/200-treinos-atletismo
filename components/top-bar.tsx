@@ -26,7 +26,7 @@ export function TopBar() {
           className="w-full max-w-6xl mx-auto text-center text-xs sm:text-sm md:text-base font-semibold text-white tracking-wide"
           style={{ paddingInline: '12px', boxSizing: 'border-box' }}
         >
-          OFERTA ESPECIAL SOMENTE HOJE • 14 DE AGOSTO
+          🎁 OFERTA ESPECIAL SOMENTE HOJE • 14 DE AGOSTO
         </div>
       </div>
     </div>
