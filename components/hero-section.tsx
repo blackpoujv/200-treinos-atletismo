@@ -14,7 +14,7 @@ export function HeroSection({ onCtaClick }: { onCtaClick: () => void }) {
           </div>
           <div className="w-full flex flex-col items-center gap-4 sm:gap-5">
             <h1 className="font-grotesk text-3xl sm:text-4xl md:text-5xl lg:text-6xl leading-tight text-pretty text-center max-w-4xl" style={{ color: '#17191C' }}>
-              <span style={{ color: '#F0642D' }}>200 Treinos de Atletismo</span> do Iniciante ao Avançado — Prontos para Aplicar
+              <span style={{ color: '#F0642D' }}>200 Treinos de Atletismo</span> do Iniciante ao Avançado Prontos para Aplicar
             </h1>
             <p className="text-sm sm:text-base md:text-lg leading-relaxed text-center max-w-2xl" style={{ color: '#4E5358' }}>
               Tenha sessões completas e organizadas para velocidade, resistência, barreiras, revezamentos, saltos, arremessos e lançamentos — com execução, diagramas técnicos e adaptações para diferentes públicos e níveis.
