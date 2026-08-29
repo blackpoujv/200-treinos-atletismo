@@ -1,8 +1,8 @@
 export function HowItWorks() {
   const steps = [
-    ['1', 'Escolha o objetivo', 'Selecione velocidade, resistência, técnica, saltos, arremessos ou lançamentos.'],
+    ['1', 'Escolha o treino', 'Selecione velocidade, resistência, técnica, saltos, arremessos ou lançamentos.'],
     ['2', 'Identifique o nível', 'Considere o público e a experiência: infantil, juvenil, adulto ou avançado.'],
-    ['3', 'Abra a sessão', 'Consulte objetivo, duração, espaço, participantes, materiais e execução.'],
+    ['3', 'Abra a sessão', 'Consulte o objetivo, duração, espaço, participantes, materiais e execução.'],
     ['4', 'Aplique e evolua', 'Use os comandos, correções, critérios de evolução e orientações de segurança.'],
   ];
   return (
