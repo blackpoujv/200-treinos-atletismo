@@ -1,7 +1,7 @@
 'use client';
 
 export function OfferSection({ onCtaClick }: { onCtaClick: () => void }) {
-  const checkoutUrl = 'https://pay.wiapy.com/p4FlRmGd9l5V';
+  const checkoutUrl = 'https://pay.cakto.com.br/3brba22_1071124';
 
   const handleCheckout = () => {
     window.location.href = checkoutUrl;
